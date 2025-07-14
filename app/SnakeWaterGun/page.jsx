@@ -60,7 +60,7 @@ const SnakeWaterGun = () => {
   };
 
   return (
-    <div className="min-h-screen bg-black text-white font-retro flex flex-col items-center justify-center px-4">
+    <div className="min-h-screen bg-[#60a5fa] text-white font-retro flex flex-col items-center justify-center px-4">
       <h1 className="text-2xl md:text-4xl mb-6 text-center">Snake Water Gun</h1>
 
       {/* Scoreboard */}
